@@ -1,4 +1,13 @@
-### Hi there 👋
+- 👋 Hi, I’m Idris Dada
+- 👀 I’m interested in AI, Data Science, Big Data 
+- 🌱 I’m currently enrolled in Artificial Intelligence Engineering Master Degree at Paris 8 University
+- 📫 How to reach me ? "Linkedin"
+
+<!---
+idrimadrid/idrimadrid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 
 <!--
 **idrimadrid/idrimadrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
