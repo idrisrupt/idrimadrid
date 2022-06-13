@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Medical Deep Leaning Project**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Machine Learning Projects especially in Computer Vision**
 
 - 👀 I’m interested in **AI, Data Science, Big Data**
 
