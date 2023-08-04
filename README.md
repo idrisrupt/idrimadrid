@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Idris</h1>
 <h3 align="center">A passionate ML Engineer / Data Scientist</h3>
 
-- 🔭 I’m currently working on **Medical Deep Leaning Project**
+- 🔭 I’m currently working on **Machine Leaning & Data engineering Projects**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects especially in Computer Vision**
+- 👯 I’m looking to collaborate on **Machine Learning & Data engineering**
 
-- 👀 I’m interested in **AI, Data Science, Big Data**
+- 👀 I’m interested in **AI, ML, Data Science, Big Data, Data engineering**
 
 - 📚 How to know me ? **<a href="https://www.goodreads.com/user/show/126260322-idriss-dada"> "Goodreads"</a>**
 
 - 📫 How to reach me **Dadaidriss@hotmail.com**
 
-- ⚡ Fun fact **more TF, less Torch ><**
+- ⚡ Fun fact **Less is more**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
